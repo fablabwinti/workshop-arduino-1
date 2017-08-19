@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="209.249px" height="141.125px" viewBox="0 0 209.249 141.125" enable-background="new 0 0 209.249 141.125"
+	 xml:space="preserve">
+<text transform="matrix(1 0 0 1 33.2979 82.2114)" fill="#25848E" font-family="'Lato-Regular'" font-size="7.6">Spannung (V)</text>
+<text transform="matrix(1 0 0 1 144.2651 95.937)" fill="#25848E" font-family="'Lato-Regular'" font-size="7.6">Widerstand (R)</text>
+<text transform="matrix(1 0 0 1 91.02 18.3408)" fill="#25848E" font-family="'Lato-Regular'" font-size="7.6">Strom (I)</text>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="209.249" height="141.125"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<polygon clip-path="url(#SVGID_2_)" fill="none" stroke="#25848E" stroke-width="0.956" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		63.646,1.479 68.495,5.193 67.707,11.254 62.07,13.602 57.221,9.887 58.008,3.826 	"/>
+	
+		<path clip-path="url(#SVGID_2_)" fill="none" stroke="#25848E" stroke-width="0.956" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M1.478,21.739c0-4.48,3.644-8.138,8.128-8.138h39.495c4.475,0,8.12,3.658,8.12,8.138l49.357,63.404l4.47-16.666l4.07,19.777
+		l-2.653,0.142l0.767,5.295l4.271,5.486l4.197-18.07l5.762,23.838l-2.507,0.177l0.593,4.388l19.534,25.091h68.148"/>
+</g>
+<polygon fill="none" stroke="#25848E" stroke-width="0.696" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	70.712,20.056 73.315,23.891 71.337,28.065 66.754,28.407 64.151,24.572 66.13,20.396 "/>
+<path fill="none" stroke="#25848E" stroke-width="0.479" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M91.463,51.376l0.271,3.092l-2.548,1.775l-2.819-1.319l-0.269-3.094l2.548-1.774L91.463,51.376z M76.873,11.061l0.271,3.093
+	l-2.548,1.774l-2.819-1.319l-0.27-3.093l2.549-1.775L76.873,11.061z"/>
+<polyline fill="none" stroke="#25848E" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	135.927,79.233 141.464,79.233 141.464,108.39 135.927,108.39 "/>
+<polyline fill="none" stroke="#25848E" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	81.977,1.641 87.514,1.641 87.514,30.798 81.977,30.798 "/>
+<line fill="none" stroke="#25848E" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="25.906" y1="140" x2="32.733" y2="140"/>
+<line fill="none" stroke="#25848E" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="25.905" y1="20.174" x2="32.732" y2="20.174"/>
+<line fill="none" stroke="#25848E" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="29.319" y1="20.174" x2="29.319" y2="140"/>
+</svg>

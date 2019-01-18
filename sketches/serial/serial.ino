@@ -9,7 +9,7 @@ void setup() {
 
 void loop() {
   int value = analogRead(A0);
-  Serial.print("value: ");
+  Serial.print("val: ");
   Serial.println(value);
   digitalWrite(4, value > 200);
   digitalWrite(5, value > 400);
